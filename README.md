@@ -19,9 +19,3 @@ Key aspects include:
 - `priority_extension.py` → Priority-based node selection  
 - `selfish_node_extension.py` → Selfish node behavior & Tit-for-Tat strategy  
 - `plots/` → Simulation results and comparison graphs  
-
----
-
-## 👥 Authors
-- **Delaram Doroudgarian** – 5881909  
-- **Seyede Aida Atarzadeh Hosseini** – 6936800  
